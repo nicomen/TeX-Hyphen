@@ -1,13 +1,12 @@
 
 Module TeX::Hyphen:
 
-	Hyphenate words using TeX's patterns.
+	Hyphenate words using TeX's patterns
 
 Installation:
 
 	perl Makefile.PL
 	make
-	make test
 	make install
 
 Use:
@@ -15,6 +14,10 @@ Use:
 	my $hyp = new TeX::Hyphen "hyphen.tex";
 	my $word = "representation";
 	my @points = $hyp->hyphenate($word);
+
+Todo list:
+
+	Tests.
 
 Available:
 
