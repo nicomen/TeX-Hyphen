@@ -3,3 +3,5 @@ Hyphen.pm
 MANIFEST
 Makefile.PL
 README
+t/hyphen.t
+t/xbench.t
