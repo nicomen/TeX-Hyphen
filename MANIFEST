@@ -7,3 +7,4 @@ lib/TeX/Hyphen/czech.pm
 lib/TeX/Hyphen/german.pm
 t/hyphen.t
 t/xbench.t
+META.yml                                 Module meta-data (added by MakeMaker)
